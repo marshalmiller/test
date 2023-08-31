@@ -18,7 +18,7 @@ For each of the programs listed below, answer the following questions:
 - Give three specific examples of input/parameter values and, for each, state the number of times the recursive function is called.
 - Devise a formula with respect to *n* that describes the number of times the recursive function will be called, where *n* is either the value passed or some property of the value passed (e.g. *n* might be the length of a string or the size of an array).
 
-Answer these questions for the following programs:
+Answer these questions for the followin
 - factorial2.cpp
 - ireverse2.cpp
 - sreverse2.cpp
